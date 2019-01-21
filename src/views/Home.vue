@@ -14,5 +14,13 @@ export default {
   components: {
     HelloWorld,
   },
+  data() {
+    return {
+
+    }
+  },
+  computed: {
+
+  },
 };
 </script>
